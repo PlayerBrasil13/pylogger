@@ -1,6 +1,6 @@
 # Pylogger
 This is an super simple Keylogger i made with python. It is intented for local use, but
-you can send the logs by e-mail if you wan to.
+you can send the logs by e-mail if you want to.
 
 ### What it does?
 
